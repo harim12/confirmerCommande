@@ -12,3 +12,10 @@ spring:
     show-sql: true
     hibernate:
       ddl-auto: create-drop
+
+whatsapp:
+  api:
+    base-url: https://graph.facebook.com/v13.0
+    phone-number-id: +212606581004
+    bearer-token: EAANWHadNxR8BOxSXvrJMi4SfTKVwndLbvwIIJHXAnknCiob3hRe9R9XayXJxaEHIAH4johLalc01nx1n0k26GZAOgwTCttz5G4b2sZBsbZAeCaQWZBiSwiSkRvrpaqDyFdhrQxn1aXtPlM5rVBi43UuJMdzYbjeUCldeAEZCzPU9pSKC46mFSHsgl4AJxoXyPFAtwf3hNyUVZA4deRjoEZD
+
