@@ -32,6 +32,7 @@ public class CommandeController {
         }
     }
 
+
     @PostMapping("/ajouter")
     public CommandeEntity ajouterCommande(@RequestBody CommandeEntity nouvelleCommande) {
         return commandeService.ajouterCommande(nouvelleCommande);

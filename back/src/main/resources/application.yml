@@ -19,3 +19,9 @@ whatsapp:
     phone-number-id: +212606581004
     bearer-token: EAANWHadNxR8BOxSXvrJMi4SfTKVwndLbvwIIJHXAnknCiob3hRe9R9XayXJxaEHIAH4johLalc01nx1n0k26GZAOgwTCttz5G4b2sZBsbZAeCaQWZBiSwiSkRvrpaqDyFdhrQxn1aXtPlM5rVBi43UuJMdzYbjeUCldeAEZCzPU9pSKC46mFSHsgl4AJxoXyPFAtwf3hNyUVZA4deRjoEZD
 
+facebook:
+  webhook:
+    verify-token: orderWhisper19
+
+webhook:
+  endpoint: http://localhost:8081/webhook
